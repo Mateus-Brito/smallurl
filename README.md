@@ -28,3 +28,7 @@ docker-compose up -d
 docker-compose run web python manage.py migrate
 docker-compose run web python manage.py createsuperuser
 ```
+
+### Deploy to production
+
+Want to find out how to get a project like this into production? [Read here](https://github.com/Mateus-Brito/deploying/blob/main/contents/dokku/django.md)
