@@ -12,7 +12,7 @@ cd smallurl
 touch .env
 ```
 
-Defina os valores para as variáveis de ambiente:
+Set the values for environment variables:
 
 ```console
 SECRET_KEY=THIS_IS_NOT_A_GOOD_SECRET
